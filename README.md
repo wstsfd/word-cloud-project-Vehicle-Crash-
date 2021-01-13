@@ -5,4 +5,5 @@ Following are the screenshots of the main python function for file handling and 
 
 ![image](https://user-images.githubusercontent.com/25280371/104428282-93e16b80-5584-11eb-8ed7-61efd7669eda.png)
 
-![image](https://user-images.githubusercontent.com/25280371/104428282-93e16b80-5584-11eb-8ed7-61efd7669eda.png)
+![image](https://user-images.githubusercontent.com/25280371/104428262-9217a800-5584-11eb-816b-0357ff33b607.png)
+
